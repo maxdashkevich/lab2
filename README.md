@@ -10,6 +10,7 @@
  * Оптимизатор 'sgd'
  * Функция 'потерь categorical_crossentropy'
  * Метрика 'categorical_accuracy'
+ 
  BATCH_SIZE = 55
 
  Графики метрики точности и функции потерь на обучающей выборке:
